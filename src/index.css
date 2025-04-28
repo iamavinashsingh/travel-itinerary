@@ -1,0 +1,31 @@
+@import "tailwindcss";
+@import 'remixicon/fonts/remixicon.css';
+
+
+
+/* In your CSS file (index.css or App.css) */
+    .montserrat-light {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400; /* Normal weight */
+    font-style: normal;
+    }
+
+    .montserrat-bold {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700; /* Bold weight */
+    font-style: normal;
+    }
+
+    .montserrat-extrabold {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800; /* Extra-bold weight */
+    font-style: normal;
+    }
+
+
+* {
+        font-family: 'Montserrat', sans-serif;
+}   
